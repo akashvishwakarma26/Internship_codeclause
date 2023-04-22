@@ -1,0 +1,21 @@
+Harry Potter,Jk Rowling,30,$2
+
+Start With Why,Simon Sinek,20,$1.5
+
+Programming With Python,John Smith,25,$1.5
+
+Analog computation and simulation,Rajaraman V,30,$3
+
+Computer programming in COBOL,Rajaraman V,30,$2.5
+
+Combinatorics : theory and applications,Krishnamurth EV,25,$1.7
+
+Computer- a child's play, Rajaraman & Dharma,35,$3
+
+Data communication and computer networks,Pal & Ajit,20,$2.1
+
+Introduction to programming through C++,Ranade & Abhiram G,25,$2.1
+
+Computer organisation and architecture,Sarangi & Smruti Ranjan,30,$1.1
+
+Fundamentals of database indexing and searching, Bhattacharya & Arnab,25,$1
